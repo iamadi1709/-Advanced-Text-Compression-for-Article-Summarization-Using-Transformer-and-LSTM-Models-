@@ -1,4 +1,5 @@
-# -Advanced-Text-Compression-for-Article-Summarization-Using-Transformer-and-LSTM-Models-
+# Advanced-Text-Compression-for-Article-Summarization-Using-Transformer-and-LSTM-Models #
+
 Developed an innovative text summarization solution to effectively condense articles while retaining key information. The project featured two sophisticated models: a custom-built 4-layer Transformer and a 3-layer stacked LSTM encoder-decoder with global attention. These models were designed from scratch to generate concise and coherent.
 
 Dataset Link: https://www.kaggle.com/gowrishankarp/newspaper-text-summarization-cnn-dailymail
