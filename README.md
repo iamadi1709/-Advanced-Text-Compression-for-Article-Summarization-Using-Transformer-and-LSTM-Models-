@@ -23,7 +23,7 @@ Adaptable Framework: Designed to handle a variety of content types and summariza
 📂 Getting Started
 To explore this project:
 
-Clone the Repository:git clone https://github.com/yourusername/advanced-text-compression.git
+Clone the Repository: https://github.com/iamadi1709/-Advanced-Text-Compression-for-Article-Summarization-Using-Transformer-and-LSTM-Models-.git
 
 Navigate to the Project Directory:cd advanced-text-compression
 
